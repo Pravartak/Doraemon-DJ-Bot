@@ -1,0 +1,468 @@
+name : 🇮🇳 English
+
+# General Strings
+general_1 : "ᖇᗴᑭᒪY TO ᗩ ᑌՏᗴᖇ'Տ ᗰᗴՏՏᗩᘜᗴ Oᖇ ᘜIᐯᗴ ᑌՏᗴᖇᑎᗩᗰᗴ/ᑌՏᗴᖇ_Iᗪ."
+general_2 : "ᗴᖇᖇOᖇ! ᗯᖇOᑎᘜ ᑌՏᗩᘜᗴ Oᖴ ᑕOᗰᗰᗩᑎᗪ."
+general_3 : "ՏOᗰᗴ **ᗴ᙭ᗴᑭTIOᑎ Oᑕᑕᑌᖇᗴᗪ** ᗯᕼIᒪᗴ ᑭᖇOᑕᑕᗴՏՏIᑎᘜ YOᑌᖇ ᑫᑌᗴᖇY.\n\nᗴ᙭ᗴᑭTIOᑎ TYᑭᗴ:- {0}"
+general_4 : "YOᑌ'ᖇᗴ ᗩᑎ ᗩᑎOᑎYᗰOᑌՏ ᗩᗪᗰIᑎ Iᑎ TᕼIՏ ᑕᕼᗩT ᘜᖇOᑌᑭ!\nᖇᗴᐯᗴᖇT ᗷᗩᑕK TO ᑌՏᗴᖇ ᗩᑕᑕOᑌᑎT ᖴOᖇ ᗩᗪᗰIᑎ ᖇIᘜᕼTՏ."
+general_5 : "YOᑌ ᑎᗴᗴᗪ TO ᗷᗴ ᗩᗪᗰIᑎ ᗯITᕼ **ᗰᗩᑎᗩᘜᗴ ᐯIᗪᗴO ᑕᕼᗩT** ᖇIᘜᕼTՏ TO ᑭᗴᖇᖴOᖇᗰ TᕼIՏ ᗩᑕTIOᑎ."
+general_6 : "ᗷOT IՏᑎ'T ՏTᖇᗴᗩᗰIᑎᘜ Oᑎ ᐯIᗪᗴO ᑕᕼᗩT."
+
+# Classes - Telegram.py
+tg_1 : "ᗷOT IՏ **OᐯᗴᖇᒪOᗩᗪᗴᗪ** ᗯITᕼ ᗪOᗯᑎᒪOᗩᗪՏ ᖇIᘜᕼT ᑎOᗯ.\n\n**TᖇY ᗩᖴTᗴᖇ:** {0} (__ᗴ᙭ᑭᗴᑕTᗴᗪ TIᗰᗴ__)"
+tg_2 : "ᖴᗩIᒪᗴᗪ TO ᗪOᗯᑎᒪOᗩᗪ Tᕼᗴ ᗰᗴᗪIᗩ ᖴᖇOᗰ Tᗴᒪᗴᘜᖇᗩᗰ."
+
+# Core - Call.py
+call_1 : "ᗷOT ᖇᗴᑫᑌIᖇᗴՏ **ᗩᗪᗰIᑎ'Տ** ᑭᗴᖇᗰIՏՏIOᑎ TO IᑎᐯITᗴ ᗩՏՏIՏTᗩᑎT ᗩᑕᑕOᑌᑎT TO YOᑌᖇ ᑕᕼՏᑎᑎᗴᒪ.\n\nᗪIՏᗩᗷᒪᗴ ᑕᕼᗩᑎᑎᗴᒪ ᑭᒪᗩYᗰOᗪᗴ ᐯIᗩ : /playmode"
+call_2 : "ᗩՏՏIՏTᗩᑎT IՏ ᗷᗩᑎᑎᗴᗪ Iᑎ YOᑌᖇ ᘜᖇOᑌᑭ Oᖇ ᑕᕼᗩᑎᑎᗴᒪ, ᑭᒪᗴᗩՏᗴ ᑌᑎᗷᗩᑎ.\n\n**ᗩՏՏIՏTᗩᑎT ᑌՏᗴᖇᑎᗩᗰᗴ:** @{0}\n**ᗩՏՏIՏTᗩᑎT Iᗪ:** {1}"
+call_3 : "ᗴ᙭ᑕᗴᑭTIOᑎ Oᑕᑕᑌᖇᖇᗴᗪ ᗯᕼIᒪᗴ IᑎᐯITIᑎᘜ ᗩՏՏIՏTᗩᑎT TO YOᑌᖇ ᑕᕼᗩT.\n\n**ᖇᗴᗩՏOᑎ**: {0}"
+call_4 : "ᗷOT ᖇᗴᑫᑌIᖇᗴՏ **IᑎᐯITᗴ ᑌՏᗴᖇՏ ᐯIᗩ ᒪIᑎK** ᑭᗴᖇᗰIՏՏIOᑎ TO IᑎᐯITᗴ ᗩՏՏIՏTᗩᑎT ᗩᑕᑕOᑌᑎT TO YOᑌᖇ ᑕᕼᗩT ᘜᖇOᑌᑭ."
+call_5 : "ᗩՏՏIՏTᗩᑎT ᗩᑕᑕOᑌᑎT ᗯIᒪᒪ ᗷᗴ ᒍOIᑎIᑎᘜ Iᑎ 5 ՏᗴᑕOᑎᗪՏ, ᑭᒪᗴᗩՏᗴ ᗯᗩIT..."
+call_6 : "ᗩՏՏIՏTᗩᑎT ᗩᑕᑕOᑌᑎT [{0}] ᒍOIᑎᗴᗪ ՏᑌᑕᑕᗴՏՏᖴᑌᒪᒪY.\n\nՏTᗩᖇTIᑎᘜ ᗰᑌՏIᑕ ᑎOᗯ."
+call_7 : "**ᕼᗩᖇᗰᖴᑌᒪ ᗩᗪᗰIᑎ ᖇIᘜᕼT ᘜIᐯᗴᑎ **\n\nᑭᒪᗴᗩՏᗴ ᖇᗴᗰOᐯᗴ **ᗷᗩᑎ ᑌՏᗴᖇՏ** ᖇIᘜᕼT ᖴᖇOᗰ Tᕼᗴ ᗷOT."
+call_8 : "**ᕼᗩᖇᗰᖴᑌᒪ ᗩᗪᗰIᑎ ᖇIᘜᕼT ᘜIᐯᗴᑎ **\n\nᑭᒪᗴᗩՏᗴ ᖇᗴᗰOᐯᗴ **ᗩᗪᗪ ᑎᗴᗯ ᗩᗪᗰIᑎՏ** ᖇIᘜᕼT ᖴᖇOᗰ Tᕼᗴ ᗷOT."
+call_9 : "**ᖴᗩIᒪᗴᗪ TO ՏᗯITᑕᕼ ՏTᖇᗴᗩᗰ**\nᑭᒪᗴᗩՏᗴ ᑌՏᗴ /skip TO ᑕᕼᗩᑎᘜᗴ TᖇᗩᑕK ᗩᘜᗩIᑎ."
+call_10 : "ᗪOᗯᑎᒪOᗩᗪIᑎᘜ ᑎᗴ᙭T TᖇᗩᑕK ᖴᖇOᗰ ᑭᒪᗩYᒪIՏT."
+call_11 : "ᑭᒪᗴᗩՏᗴ ᗩᗪᗪ @{0}  TO YOᑌᖇ ᑕᕼᗩᑎᑎᗴᒪ [ ID: {1}].\n\nᗷOT IՏ ᑎOT ᗩᗷᒪᗴ TO ᘜᗴT ᑕᕼᗩᑎᑎᗴᒪ ᗪᗴTᗩIᒪՏ."
+
+# PLUGINS - Auth.py
+auth_1 : "YOᑌ ᑕᗩᑎ ᕼᗩᐯᗴ OᑎᒪY 20 ᑌՏᗴᖇՏ Iᑎ YOᑌᖇ ᘜᖇOᑌᑭ'Տ ᗩᑌTᕼOᖇIՏᗴᗪ ᑌՏᗴᖇՏ ᒪIՏT (ᗩᑌᒪ)."
+auth_2 : "ᗩᗪᗪᗴᗪ ᑌՏᗴᖇ TO ᗩᑌTᕼOᖇIՏᗴᗪ ᑌՏᗴᖇՏ ᒪIՏT Oᖴ YOᑌᖇ ᘜᖇOᑌᑭ."
+auth_3 : "ᑌՏᗴᖇ IՏ ᗩᒪᖇᗴᗩᗪY Iᑎ Tᕼᗴ ᗩᑌTᕼOᖇIՏᗴᗪ ᑌՏᗴᖇՏ ᒪIՏT."
+auth_4 : "ᑌՏᗴᖇ IՏ ᖇᗴᗰOᐯᗴᗪ ᖴᖇOᗰ ᗩᑌTᕼOᖇIՏᗴᗪ ᑌՏᗴᖇՏ ᒪIՏT Oᖴ TᕼIՏ ᘜᖇOᑌᑭ."
+auth_5 : "TᗩᖇᘜᗴTᗴᗪ ᑌՏᗴᖇ IՏ ᑎOT ᗩᑎ ᗩᑌTᕼOᖇIՏᗴᗪ ᑌՏᗴᖇ."
+auth_6 : "ᖴᗴTᑕᕼIᑎᘜ ᗩᑌTᕼOᖇIՏᗴᗪ ᑌՏᗴᖇՏ!... ᑭᒪᗴᗩՏᗴ ᗯᗩIT..."
+auth_7 : "**ᗩᑌTᕼOᖇIՏᗴᗪ ᑌՏᗴᖇՏ ᒪIՏT [ᗩᑌᒪ]:**\n\n"
+auth_8 : "┗ ᗩᗪᗪᗴᗪ ᗷY:-"
+
+# PLUGINS - Admins
+admin_1 : "ᗰᑌՏIᑕ IՏ ᗩᒪᖇᗴᗩᗪY ᑭᗩᑌՏᗴᗪ ᗷᖇᑌᕼᕼ."
+admin_2 : "🎧 ᐯOIᑕᗴᑕᕼᗩT ᑭᗩᑌՏᗴᗪ ᗷY {} ​!"
+admin_3 : "ᗰᑌՏIᑕ IՏ ᗩᒪᖇᗴᗩᗪY ᖇᗴՏᑌᗰᗴᗪ, ᑕᗩᑎ'T YOᑌ ᕼᗴᗩᖇ."
+admin_4 : "🎧 ᐯOIᑕᗴᑕᕼᗩT ᖇᗴՏᑌᗰᗴᗪ ᗷY {} ​!"
+admin_5 : "ᗰᑌՏIᑕ IՏ ᗩᒪᖇᗴᗩᗪY ᗰᑌTᗴᗪ, ᗯᕼᗩT ᗩᖇᗴ YOᑌ ᕼᗴᗩᖇIᑎᘜ ᑎOᗯ!"
+admin_6 : "🎧 ᐯOIᑕᗴᑕᕼᗩT ᗰᑌTᗴᗪ ᗷY {} ​!"
+admin_7 : "ᗰᑌՏIᑕ IՏ ᗩᒪᖇᗴᗩᗪY ᑌᑎᗰᑌTᗴᗪ, ᑕᗩᑎ'T YOᑌ ᕼᗴᗩᖇ."
+admin_8 : "🎧 ᐯOIᑕᗴᑕᕼᗩT ᑌᑎᗰᑌTᗴᗪ ᗷY {} ​!"
+admin_9 : "🎧 ᐯOIᑕᗴᑕᕼᗩT ᗴᑎᗪᗴᗪ/ՏTOᑭᑭᗴᗪ ᗷY {} ​!"
+admin_10 : "🎧 ᐯOIᑕᗴᑕᕼᗩT ՏKIᑭᑭᗴᗪ ᗷY {} ​! ᑎO ᗰOᖇᗴ ᗰᑌՏIᑕ Iᑎ ᑫᑌᗴᑌᗴ, ՏO ᗷOᖇIᑎᘜ."
+admin_11 : "ᗴᖇᖇOᖇ ᗯᕼIᒪᗴ ᑕᕼᗩᑎᘜIᑎᘜ ՏTᖇᗴᗩᗰ TO **{0}** \n\nᑭᒪᗴᗩՏᗴ ᑌՏᗴ /skip ᗩᘜᗩIᑎ."
+admin_12 : "ᑌᑎᗩᗷᒪᗴ TO ՏKIᑭ TO ᗩ ՏᑭᗴᑕIᖴIᑕ TᖇᗩᑕK ᗷᗴᑕᗩᑌՏᗴ Oᖴ ᗴᑎᗩᗷᒪᗴᗪ **ᒪOOᑭ ᑭᒪᗩY**. ᑭᒪᗴᗩՏᗴ ᗪIՏᗩᗷᒪᗴ ᒪOOᑭ ᑭᒪᗩY ᐯIᗩ `/loop disable` TO ᑌՏᗴ TᕼIՏ ᖴᗴᗩTᑌᖇᗴ."
+admin_13 : "ᑭᒪᗴᗩՏᗴ ᑌՏᗴ ᑎᑌᗰᗴᖇIᑕ ᑎᑌᗰᗷᗴᖇՏ ᖴOᖇ ՏᑭᗴᑕIᖴIᑕ TᖇᗩᑕKՏ, ᒪIKᗴ 1, 2, ᗴTᑕ."
+admin_14 : "ᗩTᒪᗴᗩՏT 2 TᖇᗩᑕKՏ ᑎᗴᗴᗪᗴᗪ Iᑎ ᑫᑌᗴᑌᗴ TO ՏKIᑭ TO ᗩ ՏᑭᗴᑕIᖴIᑕ ᑎᑌᗰᗷᗴᖇ. ᑕᕼᗴᑕK Tᕼᗴ ᑫᑌᗴᑌᗴ ᗷY /queue"
+admin_15 : "ᑎOT ᗴᑎOᑌᘜᕼ TᖇᗩᑕKՏ Iᑎ ᑫᑌᗴᑌᗴ ᖴOᖇ Tᕼᗴ ᐯᗩᒪᑌᗴ ᘜIᐯᗴᑎ ᗷY YOᑌ. ᑭᒪᗴᗩՏᗴ ᑕᕼOOՏᗴ ᑎᑌᗰᗷᗴᖇՏ ᗷᗴTᗯᗴᗴᑎ 1 ᗩᑎᗪ {0}"
+admin_16 : "ᖴᗩIᒪᗴᗪ TO ՏKIᑭ TO ՏᑭᗴᑕIᖴIᑕ TᖇᗩᑕK.\n\nᑕᕼᗴᑕK ᒪᗴᖴT ᑫᑌᗴᑌᗴ ᗷY /queue"
+admin_17 : "{0}... ᑭᒪᗴᗩՏᗴ ᗯᗩIT..."
+admin_18 : "ᗯᕼᗩT Tᕼᗴ ᕼᗴᑕK... ᗩᗪᗰIᑎ ᒪIՏT ᑎOT ᖴOᑌᑎᗪ​\n\nᑭᒪᗴᗩՏᗴ ᖇᗴᒪOᗩᗪ ᗩᗪᗰIᑎ ᒪIՏT ᐯIᗩ `/reload`"
+admin_19 : "YOᑌ ᑎᗴᗴᗪ TO ᗷᗴ ᗩᗪᗰIᑎ ᗯITᕼ **ᗰᗩᑎᗩᘜᗴ ᐯOIᑕᗴ ᑕᕼᗩT** ᖇIᘜᕼT TO ᑭᗴᖇᖴOᖇᗰ TᕼIՏ.\nIᖴ YOᑌ'ᖇᗴ ᗩᒪᖇᗴᗩᗪY ᗩᗪᗰIᑎ, ᖇᗴᒪOᗩᗪ ᗩᗪᗰIᑎᑕᗩᑕᕼᗴ ᐯIᗩ /adminncache "
+admin_20 : "ᗩᗪᗰIᑎ ᑕᗩᑕᕼᗴ ᖇᗴᒪOᗩᗪᗴᗪ ՏᑌᑕᑕᗴՏՏᖴᑌᒪᒪY, YOO!"
+admin_21 : "ᑎOTᕼIᑎᘜ IᑎՏIᗪᗴ ᑫᑌᗴᑌᗴ TO Տᕼᑌᖴᖴᒪᗴ."
+admin_22 : "ᖴᗩIᒪᗴᗪ TO Տᕼᑌᖴᖴᒪᗴ.\n\nᑕᕼᗴᑕK ᑫᑌᗴᑌᗴ: /queue"
+admin_23 : "**ᑫᑌᗴᑌᗴ Տᕼᑌᖴᖴᒪᗴᗪ ᗷY {0}​**\n\nᑕᕼᗴᑕK Տᕼᑌᖴᖴᒪᗴᗪ ᑫᑌᗴᑌᗴ: /queue"
+admin_24 : "**ᑌՏᗩᘜᗴ:**\n/loop [Enable/Disable] Oᖇ [ᑎᑌᗰᗷᗴᖇ ᗷᗴTᗯᗴᗴᑎ 1-10]\n\n**ᗴ᙭ᗩᗰᑭᒪᗴ:** /loop 5"
+admin_25 : "ᒪOOᑭ ᗴᑎᗩᗷᒪᗴᗪ ᗷY {0} ᖴOᖇ **{1}** TIᗰᗴՏ. ᗷOT ᗯIᒪᒪ ᑎOᗯ ᖇᗴᑭᗴᗩT Tᕼᗴ ᑕᑌᖇᖇᗴᑎT ᑭᒪᗩYIᑎᘜ ᗰᑌՏIᑕ Oᑎ ᐯOIᑕᗴ ᑕᕼᗩT ᖴOᖇ **{1}** TIᗰᗴՏ."
+admin_26 : "ᑭᒪᗴᗩՏᗴ ᑌՏᗴ ᑎᑌᗰᗷᗴᖇՏ ᗷᗴTᗯᗴᗴᑎ 1-10 ᖴOᖇ ᒪOOᑭ ᑭᒪᗩY."
+admin_27 : "ᒪOOᑭ ᑭᒪᗩY ᕼᗩՏ ᗷᗴᗴᑎ ᗪIՏᗩᗷᒪᗴᗪ."
+admin_28 : "**ᑌՏᗩᘜᗴ:**\n/seek Oᖇ /seekback [Duration in Seconds]"
+admin_29 : "ᑭᒪᗴᗩՏᗴ ᑌՏᗴ ᑎᑌᗰᗷᗴᖇՏ ᖴOᖇ ՏᗴᗴKIᑎᘜ Iᑎ ՏᗴᑕOᑎᗪՏ."
+admin_30 : "ՏOᖇᖇY ᗷᑌT YOᑌ ᑕᗩᑎ'T ՏᗴᗴK Tᕼᗴ ᑭᒪᗩYIᑎᘜ ՏTᖇᗴᗩᗰ, IT ᑕᗩᑎ OᑎᒪY ᗷᗴ ՏKIᑭᑭᗴᗪ Oᖇ ՏTOᑭᑭᗴᗪ."
+admin_31 : "ᗷOT IՏ ᑎOT ᗩᗷᒪᗴ TO ՏᗴᗴK ᗷᗴᑕᗩᑌՏᗴ Oᖴ ᕼIᘜᕼ ᗪᑌᖇᗩTIOᑎ ᘜIᐯᗴᑎ. TᖇY ՏᗴᗴKIᑎᘜ ᗯITᕼ ᒪOᗯᗴᖇ ᗪᑌᖇᗩTIOᑎ ᗩᑎᗪ ᖇᗴᗰᗴᗰᗷᗴᖇ TᕼᗩT ᗩ TIᗰᗴ Oᖴ 10Տᗴᑕ IՏ ᒪᗴᖴT ᗩᖴTᗴᖇ ՏᗴᗴKIᑎᘜ.\n\nᑭᒪᗩYIᑎᘜ** {0}** ᗰIᑎᑌTᗴՏ OᑌT Oᖴ **{1}** ᗰIᑎᑌTᗴՏ"
+admin_32 : "ՏᗴᗴKIᑎᘜ..."
+admin_33 : "ՏᗴᗴKᗴᗪ TO {0} ᗰIᑎᑌTᗴՏ"
+admin_34 : "ᖴᗩIᒪᗴᗪ TO ՏᗴᗴK."
+
+# Bot 
+
+# Start
+start_1 : "TᕼᗩᑎKՏ ᖴOᖇ ᗩᗪᗪIᑎᘜ ᗰᗴ Iᑎ {0}.\n{1} ᑕᗩᑎ ᑎOᗯ ᑭᒪᗩY ՏOᑎᘜՏ Iᑎ TᕼIՏ ᑕᕼᗩT.\n\nᖴOᖇ ᘜᗴTTIᑎᘜ ᗩᑎY TYᑭᗴ Oᖴ ᕼᗴᒪᑭ YOᑌ ᑕᗩᑎ ᒍOIᑎ Oᑌᖇ ՏᑌᑭᑭOᖇT ᘜᖇOᑌᑭ."
+start_2 : "**ᕼᗴYYO, 🖤**\n   **TᕼIՏ IՏ {0}** 💖\n **ᗩ ᑭOᗯᗴᖇᖴᑌᒪ ᗰᑌՏIᑕ ᑭᒪᗩYᗴᖇ ᗷOT ᗯITᕼ ՏOᗰᗴ ᗩᗯᗴՏOᗰᗴ ᗩᑎᗪ ᑌՏᗴᖴᑌᒪ ᖴᗴᗩTᑌᖇᗴՏ.**\n\n**ᗩᒪᒪ Oᖴ ᗰY ᑕOᗰᗰᗩᑎᗪՏ ᗩᖇᗴ ᒪIՏTᗴᗪ Iᑎ Tᕼᗴ ᕼᗴᒪᑭ ᗷᑌTTOᑎ.**"
+start_3 : "ᕼIᗴᗴ,\n  TᕼIՏ IՏ {0}\n\nᗩ ᖴᗩՏT ᗩᑎᗪ ᑭOᗯᗴᖇᖴᑌᒪ ᗰᑌՏIᑕ ᑭᒪᗩYᗴᖇ ᗷOT ᗯITᕼ ՏOᗰᗴ ᗩᗯᗴՏOᗰᗴ ᖴᗴᗩTᑌᖇᗴՏ.\n\nᗩՏՏIՏTᗩᑎT ᑌՏᗴᖇᑎᗩᗰᗴ:- @{1}\nᗩՏՏIՏTᗩᑎT Iᗪ:- {2}"
+start_4 : "Tᕼᗴ 👑 Oᗯᑎᗴᖇ Oᖴ {0}, [{1}] ᒍᑌՏT ᒍOIᑎᗴᗪ YOᑌᖇ ᑕᕼᗩT."
+start_5 : "Tᕼᗴ ՏᑌᗪO ᑌՏᗴᖇ Oᖴ {0}, [{1}] ᒍᑌՏT ᒍOIᑎᗴᗪ YOᑌᖇ ᑕᕼᗩT."
+start_6 : "❗️ **ՏᑌᑭᗴᖇᘜᖇOᑌᑭ ᑎᗴᗴᗪᗴᗪ** ❗️\n\nᑭᒪᗴᗩՏᗴ ᑕOᑎᐯᗴᖇT YOᑌᖇ **ᘜᖇOᑌᑭ** TO **ՏᑌᑭᗴᖇᘜᖇOᑌᑭ** ᗩᑎᗪ Tᕼᗴᑎ ᗩᗪᗪ ᗰᗴ ᗷᗩᑕK.\n\n**ᕼOᗯ TO ᗰᗩKᗴ ՏᑌᑭᗴᖇᘜᖇOᑌᑭ?**\n🥱 ᗰᗩKᗴ YOᑌᖇ ᘜᖇOᑌᑭ'Տ ᑕᕼᗩT ᕼIՏTOᖇY **ᐯIՏIᗷᒪᗴ** Oᑎᑕᗴ."
+start_7 : "**ᗷᒪᗩᑕKᒪIՏTᗴᗪ ᑕᕼᗩT**\n\nTᕼIՏ ᑕᕼᗩT IՏ ᗷᒪᗩᑕKᒪIՏTᗴᗪ ᖴOᖇ ᑌՏIᑎᘜ Tᕼᗴ ᗷOT. ᖇᗴᑫᑌᗴՏT ᗩ ՏᑌᗪO ᑌՏᗴᖇ TO ᗯᕼITᗴᒪIՏT YOᑌᖇ ᑕᕼᗩT, ՏᑌᗪO ᑌՏᗴᖇՏ [ᒪIՏT]({0}) , ᗴᒪՏᗴ ᗩᗪᗪ ᗩᑎOTᕼᗴᖇ ᗷOT"
+
+# Help
+help_1 : "ᑕᕼOOՏᗴ Tᕼᗴ ᑕᗩTᗴᘜOᖇY ᖴOᖇ ᗯᕼIᑕᕼ YOᑌ ᗯᗩᑎᑎᗩ ᘜᗴT ᕼᗴᒪᑭ.\nᗩՏK YOᑌᖇ ᗪOᑌᗷTՏ ᗩT @{}\n\nᗩᒪᒪ ᑕOᗰᗰᗩᑎᗪՏ ᑕᗩᑎ ᗷᗴ ᑌՏᗴᗪ ᗯITᕼ: `/`"
+help_2 : "ᕼᗴᒪᑭ"
+
+# Settings
+setting_1 : "⚙️ **ᗰᑌՏIᑕ ᗷOT ՏᗴTTIᑎᘜՏ**\n\n🖇**ᘜᖇOᑌᑭ:** {0}\n🔖**ᘜᖇOᑌᑭ Iᗪ:** `{1}`\n\n🔘**ᑕᕼOOՏᗴ Tᕼᗴ ᖴᑌᑎᑕTIOᑎ ᗷᑌTTOᑎՏ ᖴᖇOᗰ ᗷᗴᒪOᗯ ᗯᕼIᑕᕼ YOᑌ ᗯᗩᑎT TO ᗴᗪIT Oᖇ ᑕᕼᗩᑎᘜᗴ.**"
+setting_3 : "⁉️ ᗯᕼᗩT IՏ TᕼIՏ?\n\n1) ᗪIᖇᗴᑕT: ᑭᒪᗩYՏ Տᗴᗩᖇᑕᕼ ᑫᑌᗴᖇIᗴՏ ᗪIᖇᗴᑕTᒪY. ᑌՏᗴ -v TO ᑭᒪᗩY ᐯIᗪᗴOՏ Iᑎ ᗪIᖇᗴᑕT ᗰOᗪᗴ.\n\n2) IᑎᒪIᑎᗴ: ᖇᗴTᑌᖇᑎՏ IᑎᒪIᑎᗴ ᗰᗩᖇKᑌᑭ ᗷᑌTTOᑎՏ ᖴOᖇ ᑕᕼOOՏIᑎᘜ ᗷᗴTᗯᗴᗴᑎ ᐯIᗪᗴO & ᗩᑌᗪIO."
+setting_4 : "⁉️ ᗯᕼᗩT IՏ TᕼIՏ?\n\n👥 ᗴᐯᗴᖇYOᑎᗴ: ᗩᑎYOᑎᗴ ᑕᗩᑎ ᑌՏᗴ ᗩᗪᗰIᑎ ᑕOᗰᗰᗩᑎᗪՏ ՏKIᑭ, ᑭᗩᑌՏᗴ, ᖇᗴՏᑌᗰᗴ ᗴTᑕ. ᑭᖇᗴՏᗴᑎT Iᑎ TᕼIՏ ᘜᖇOᑌᑭ.\n\n🙍ᗩᗪᗰIᑎ OᑎᒪY: OᑎᒪY ᗩᗪᗰIᑎՏ ᗩᑎᗪ ᗩᑌTᕼOᖇIՏᗴᗪ ᑌՏᗴᖇՏ ᑕᗩᑎ ᑌՏᗴ ᗩᗪᗰIᑎ ᑕOᗰᗰᗩᑎᗪՏ."
+setting_5 : "ᑎO ᗩᑌTᕼOᖇIՏᗴᗪ ᑌՏᗴᖇՏ ᖴOᑌᑎᗪ.\n\nYOᑌ ᑕᗩᑎ ᗩᒪᒪOᗯ ᗩᑎY ᑎOᑎ-ᗩᗪᗰIᑎ TO ᑌՏᗴ ᗰY ᗩᗪᗰIᑎ ᑕOᗰᗰᗩᑎᗪՏ ᗷY /auth ᗩᑎᗪ ᗪᗴᒪᗴTᗴ ᗷY ᑌՏIᑎᘜ /unauth"
+setting_9 : "⁉️ ᗯᕼᗩT IՏ TᕼIՏ?\n\nᗯᕼᗴᑎ ᗩᑕTIᐯᗩTᗴᗪ, ᗷOT ᗯIᒪᒪ ᗪᗴᒪᗴTᗴ IT'Տ ᗰᗴՏՏᗩᘜᗴՏ ᗩᖴTᗴᖇ {0} TO ᗰᗩKᗴ YOᑌᖇ ᑕᕼᗩT ᑕᒪᗴᗩᑎ ᗩᑎᗪ ᑕᒪᗴᗩᖇ."
+setting_10 : "⁉️ ᗯᕼᗩT IՏ TᕼIՏ?\n\n1) ᘜᖇOᑌᑭ: ᑭᒪᗩYՏ ᗰᑌՏIᑕ Iᑎ Tᕼᗴ ᘜᖇOᑌᑭ ᗯᕼᗴᖇᗴ Tᕼᗴ ᑕOᗰᗰᗩᑎᗪ IՏ ᘜIᐯᗴᑎ.\n\n2) ᑕᕼᗩᑎᑎᗴᒪ: ᑭᒪᗩYՏ ᗰᑌՏIᑕ Iᑎ Tᕼᗴ ᑕᕼᗩᑎᑎᗴᒪ YOᑌ ᗯᗩᑎT. ՏᗴT ᑕᕼᗩᑎᑎᗴᒪ Iᗪ ᐯIᗩ /channelplay"
+setting_11 : "⁉️ ᗯᕼᗩT IՏ TᕼIՏ?\n\n1) ᗴᐯᗴᖇYOᑎᗴ: ᗩᑎYOᑎᗴ ᑭᖇᗴՏᗴᑎT Iᑎ TᕼIՏ ᘜᖇOᑌᑭ ᑕᗩᑎ ᑭᒪᗩY ᗰᑌՏIᑕ ᕼᗴᖇᗴ.\n\n2) ᗩᗪᗰIᑎ OᑎᒪY: OᑎᒪY ᗩᗪᗰIᑎՏ ᑕᗩᑎ ᑭᒪᗩY ᗰᑌՏIᑕ Iᑎ TᕼIՏ ᘜᖇOᑌᑭ."
+setting_12 : "❌ YOᑌ ᕼᗩᐯᗴ ᑎO ᑕᕼᗩᑎᑎᗴᒪ Iᗪ ᗪᗴᖴIᑎᗴᗪ ᖴOᖇ ᑕᕼᗩᑎᑎᗴᒪ ᗰOᗪᗴ. ᑭᒪᗴᗩՏᗴ ᗪᗴᖴIᑎᗴ ᗯITᕼ /channelplay."
+setting_13 : "ᑕᗩᑎ'T ᑕᕼᗩᑎᘜᗴ ᑭᒪᗩY ᗰOᗪᗴ Iᑎ ᗩᑕTIᐯᗴ ᘜᖇOᑌᑭ ᑕᗩᒪᒪ. ᑭᒪᗴᗩՏᗴ ՏTOᑭ Tᕼᗴ ᐯOIᑕᗴ ᑕᕼᗩT ᖴIᖇՏT ᗯITᕼ /stop Oᖇ /end."
+setting_14 : "⁉️ ᗯᕼᗩT IՏ TᕼIՏ?\n\nᗯᕼᗴᑎ ᗩᑕTIᐯᗩTᗴᗪ, ᗷOT ᗯIᒪᒪ ᗪᗴᒪᗴTᗴ IT'Տ ᗴ᙭ᗴᑕᑌTᗴᗪ ᑕOᗰᗰᗩᑎᗪՏ /play , /pause , /shuffle , /stop , ᗴTᑕ IᗰᗰᗴᗪIᗩTᗴᒪY.\n\nᗷOT ᗯIᒪᒪ ᖇᗴᑫᑌIᖇᗴ (Delete Messages) ᗩᗪᗰIᑎ ᖇIᘜᕼT ᖴOᖇ TᕼIՏ TO ᗯOᖇK ᑭᖇOᑭᗴᖇᒪY."
+setting_15 : "ᖴᗩIᒪᗴᗪ TO ᖇᗴՏOᒪᐯᗴ ᑭᗴᗴᖇ, ᗰᗩKᗴ Տᑌᖇᗴ YOᑌ ᕼᗩᐯᗴ ᗩᗪᗪᗴᗪ ᗷOT Iᑎ YOᑌᖇ ᑕᕼᗩᑎᑎᗴᒪ, ᗩᑎᗪ ᑭᖇOᗰOTᗴᗪ IT ᗩՏ ᗩᗪᗰIᑎ.\n\nTᖇY ՏᗴTTIᑎᘜ /channelplay ᗩᘜᗩIᑎ."
+setting_16 : "⁉️ ᗯᕼᗩT IՏ TᕼIՏ?\n\nᗯᕼᗴᑎ TᕼIՏ IՏ ᗩᑕTIᐯᗩTᗴᗪ, Tᕼᗴ ᗷOT ᗯIᒪᒪ ᗩᑌTOᗰᗩTIᑕᗩᒪᒪY ՏᑌᘜᘜᗴՏT YOᑌᖇ ᑕᕼᗩT Iᑎ ᗴᐯᗴᖇY 1-2 ᕼOᑌᖇՏ ᗩᗷOᑌT Tᕼᗴ ᑕOᗰᗰᗩᑎᗪՏ Oᖴ Tᕼᗴ ᗷOT."
+
+set_cb_1 : "ᘜᗴTTIᑎᘜ ᗩᑌᗪIO ᑫᑌᗩᒪITY ᑭᗩᑎᗴᒪ..."
+set_cb_2 : "ᘜᗴTTIᑎᘜ ᐯIᗪᗴO ᑫᑌᗩᒪITY ᑭᗩᑎᗴᒪ..."
+set_cb_3 : "ᘜᗴTTIᑎᘜ ᗩᑌTᕼ ᑌՏᗴᖇՏ ᑭᗩᑎᗴᒪ..."
+set_cb_4 : "ᘜᗴTTIᑎᘜ ᑭᒪᗩY ᗰOᗪᗴ ᑭᗩᑎᗴᒪ..."
+set_cb_5 : "ᘜᗴTTIᑎᘜ ᑕᒪᗴᗩᑎ ᗰOᗪᗴ ᑭᗩᑎᗴᒪ..."
+set_cb_6 : "ՏᗴTTIᑎᘜ ᑌᑭ ᑕᕼᗩᑎᘜᗴՏ..."
+set_cb_7 : "ᘜᗴTTIᑎᘜ ᗩᑌTᕼ ᑌՏᗴᖇՏ ᒪIՏT..."
+set_cb_8 : "ᘜOIᑎᘜ ᗷᗩᑕK..."
+
+# Misc
+ustats_1 : "ᑎO ᑌՏᗴᖇ ՏTᗩTՏ ᖴOᑌᑎᗪ."
+ustats_2 : "ᘜᖇᗴᗴTIᑎᘜՏ TO YOᑌ! YOᑌ ᕼᗩᐯᗴ ᑭᒪᗩYᗴᗪ **{0}** TᖇᗩᑕKՏ TIᒪᒪ ᑎOᗯ ᗯITᕼ ᗩ ᗯᕼOᑭᑭIᑎᘜ ᑕOᑌᑎT Oᖴ **{1}** TIᗰᗴՏ.\n\nTOᑭ **{2}** ᑭᒪᗩYᗴᗪ ᗷY YOᑌ:\n\n"
+
+gstats_1 : "ᘜᗴTTIᑎᘜ ᘜᒪOᗷᗩᒪ ՏTᗩTՏ, TᕼIՏ ᑕOᑌᒪᗪ TᗩKᗴ ՏOᗰᗴ TIᗰᗴ..."
+gstats_2 : "ᑎO ᘜᒪOᗷᗩᒪ ՏTᗩTՏ ᖴOᑌᑎᗪ."
+gstats_3 : "ᘜᗴTTIᑎᘜ ᘜᒪOᗷᗩᒪ TOᑭ 10 {0} Oᖴ Tᕼᗴ ᗷOT, TᕼIՏ ᑕOᑌᒪᗪ TᗩKᗴ ՏOᗰᗴ TIᗰᗴ..."
+gstats_4 : "**TOTᗩᒪ ᑫᑌᗴᖇIᗴՏ Oᑎ ᗷOT:** {0}\n\n{1} ᕼᗩՏ ᑭᒪᗩYᗴᗪ **{2}** TᖇᗩᑕKՏ TIᒪᒪ ᑎOᗯ ᗯITᕼ ᗩ ᗯᕼOᑭᑭIᑎᘜ ᑕOᑌᑎT Oᖴ **{3}** TIᗰᗴՏ.\n\n**TOᑭ {4} TᖇᗩᑕKՏ:**\n"
+gstats_5 : "**TOᑭ {0} ᑕᕼᗩTՏ Oᖴ {1}:**\n\n"
+gstats_6 : "**TOᑭ {0} ᑌՏᗴᖇՏ Oᖴ {1}:**\n\n"
+gstats_7 : "TᕼIՏ ᑕᕼᗩT ᘜᖇOᑌᑭ ᕼᗩՏ ᑭᒪᗩYᗴᗪ **{0}** TᖇᗩᑕKՏ TIᒪᒪ ᑎOᗯ ᗯITᕼ ᗩ ᗯᕼOᑭᑭIᑎᘜ ᑕOᑌᑎT Oᖴ **{1}** TIᗰᗴՏ.\n\nTOᑭ {2} ᑭᒪᗩYᗴᗪ ᗷY TᕼIՏ ᑕᕼᗩT ᘜᖇOᑌᑭ:\n\n"
+gstats_8 : "ᘜᗴTTIᑎᘜ ᗷOT'Տ ᘜᗴᑎᗴᖇᗩᒪ ՏTᗩTՏ ᗩᑎᗪ IᑎᖴOᖇᗰᗩTIOᑎ... TᕼIՏ ᑕOᑌᒪᗪ TᗩKᗴ ՏOᗰᗴ TIᗰᗴ..."
+gstats_9 : "**ᘜᒪOᗷᗩᒪ TOᑭ 10 ՏTᗩTՏ Oᖴ Tᕼᗴ ᗷOT**\n\nՏᗴᒪᗴᑕT Tᕼᗴ ᗷᑌTTOᑎՏ ᖴᖇOᗰ ᗷᗴᒪOᗯ ᖴOᖇ ᗯᕼIᑕᕼ YOᑌ ᗯᗩᑎT TO ᑕᕼᗴᑕK ᘜᒪOᗷᗩᒪ ՏTᗩTՏ ᖴᖇOᗰ ᗷOT'Տ ՏᗴᖇᐯᗴᖇՏ."
+gstats_10 : "**ᘜᒪOᗷᗩᒪ ՏTᗩTՏ Oᖴ {0}**\n\nՏᗴᒪᗴᑕT Tᕼᗴ ᗷᑌTTOᑎՏ ᖴᖇOᗰ ᗷᗴᒪOᗯ ᖴOᖇ ᗯᕼIᑕᕼ YOᑌ ᗯᗩᑎT TO ᑕᕼᗴᑕK ᘜᒪOᗷᗩᒪ ՏTᗩTՏ ᖴᖇOᗰ ᗷOT'Տ ՏᗴᖇᐯᗴᖇՏ."
+gstats_11 : "**ᘜᗴᑎᗴᖇᗩᒪ ՏTᗩTՏ Oᖴ {0}**\nՏᗴᒪᗴᑕT Tᕼᗴ ᗷᑌTTOᑎՏ ᖴᖇOᗰ ᗷᗴᒪOᗯ ᖴOᖇ ᗯᕼIᑕᕼ YOᑌ ᗯᗩᑎT TO ᑕᕼᗴᑕK ᘜᒪOᗷᗩᒪ ՏTᗩTՏ ᖴᖇOᗰ ᗷOT'Տ ՏᗴᖇᐯᗴᖇՏ.\n\nᑌՏᗴ /gstats TO ᑕᕼᗴᑕK TOᑭ TᖇᗩᑕKՏ, ᑕᕼᗩTՏ, ᑌՏᗴᖇՏ ᗩᑎᗪ ᗰᗩᑎY ᗰOᖇᗴ OTᕼᗴᖇ ՏTᑌᖴᖴ."
+
+# Play 
+
+#Play Callback 
+playcb_1 : "TᕼIՏ IՏ ᑎOT ᖴOᖇ YOᑌ! Տᗴᗩᖇᑕᕼ YOᑌᖇ Oᗯᑎ ՏOᑎᘜ."
+playcb_2 : "ᘜᗴTTIᑎᘜ ᑎᗴ᙭T ᖇᗴՏᑌᒪT..."
+
+# Channel Play
+cplay_1 : "YOᑌ ᑕᗩᑎ ᑭᒪᗩY ᗰᑌՏIᑕ Iᑎ ᑕᕼᗩᑎᑎᗴᒪՏ ᖴᖇOᗰ TᕼIՏ ᑕᕼᗩT [{0}] TO ᗩᑎY ᑕᕼᗩᑎᑎᗴᒪ Oᖇ YOᑌᖇ ᑕᕼᗩT'Տ ᒪIᑎKᗴᗪ ᑕᕼᗩᑎᑎᗴᒪ.\n\n**ᖴOᖇ ᒪIᑎKᗴᗪ ᑕᕼᗩᑎᑎᗴᒪ:**\n/{1} ᒪIᑎKᗴᗪ\n\n**ᖴOᖇ ᗩᑎY OTᕼᗴᖇ ᑕᕼᗩᑎᑎᗴᒪ:**\n/{1} [Channel ID]"
+cplay_2 : "TᕼIՏ ᑕᕼᗩT ᕼᗩՏ ᑎO ᒪIᑎKᗴᗪ ᑕᕼᗩᑎᑎᗴᒪ."
+cplay_3 : "ᑕᕼᗩᑎᑎᗴᒪ ᗪᗴᖴIᑎᗴᗪ TO {0}\n\nᑕᕼᗩᑎᑎᗴᒪ Iᗪ: {1}"
+cplay_4 : "ᖴᗩIᒪᗴᗪ TO ᘜᗴT ᑕᕼᗩᑎᑎᗴᒪ.\n\nᗰᗩKᗴ Տᑌᖇᗴ YOᑌ ᕼᗩᐯᗴ ᗩᗪᗪᗴᗪ ᗷOT Iᑎ YOᑌᖇ ᑕᕼᗩᑎᑎᗴᒪ ᗩᑎᗪ ᑭᖇOᗰOTᗴᗪ IT ᗩՏ ᗩᗪᗰIᑎ.\nᑕᕼᗩᑎᘜᗴ ᑕᕼᗩᑎᑎᗴᒪ ᐯIᗩ /channelplay Oᖇ ᗪIՏᗩᗷᒪᗴ ᑕᕼᗩᑎᑎᗴᒪ ᑭᒪᗩY ᗰOᗪᗴ ᐯIᗩ /playmode"
+cplay_5 : "OᑎᒪY ᑕᕼᗩᑎᑎᗴᒪՏ ᗩᖇᗴ ՏᑌᑭᑭOᖇTᗴᗪ."
+cplay_6 : "YOᑌ ᑎᗴᗴᗪ TO ᗷᗴ Tᕼᗴ **Oᗯᑎᗴᖇ** Oᖴ Tᕼᗴ ᑕᕼᗩᑎᑎᗴᒪ [{0}] TO ᑕOᑎᑎᗴᑕT IT ᗯITᕼ TᕼIՏ ᘜᖇOᑌᑭ.\n**ᑕᕼᗩᑎᑎᗴᒪ'Տ Oᗯᑎᗴᖇ:** @{1}\n\nᗩᒪTᗴᖇᑎᗩTIᐯᗴᒪY YOᑌ ᑕᗩᑎ ᒪIᑎK YOᑌᖇ ᘜᖇOᑌᑭ TO TᕼᗩT ᑕᕼᗩᑎᑎᗴᒪ ᗩᑎᗪ Tᕼᗴᑎ TᖇY ᑕOᑎᑎᗴᑕTIᑎᘜ ᗯITᕼ `/channelplay linked`"
+
+#Play
+play_1 : "**» ՏᗴᗩᖇᑕᕼIᑎᘜ, ᑭᒪᗴᗩՏᗴ ᗯᗩIT...**"
+play_2 : "🏷**ᑕᕼᗩᑎᑎᗴᒪ ᑭᒪᗩY ᗰOᗪᗴ**\n🔄 ᑭᖇOᑕᑕᗴՏՏIᑎᘜ ᑫᑌᗴᖇY... ᑭᒪᗴᗩՏᗴ ᗯᗩIT!\n\n**ᒪIᑎKᗴᗪ ᑕᕼᗩᑎᑎᗴᒪ:** {0}"
+play_3 : "ᖴᗩIᒪᗴᗪ TO ᑭᖇOᑕᑕᗴՏՏ ᑫᑌᗴᖇY!"
+play_4 : "🖇 **ᗩᗪᗰIᑎՏ OᑎᒪY ᑭᒪᗩY**\nOᑎᒪY ᗩᗪᗰIᑎՏ ᗩᑎᗪ ᗩᑌTᕼ ᑌՏᗴᖇՏ ᑕᗩᑎ ᑭᒪᗩY ᗰᑌՏIᑕ Iᑎ TᕼIՏ ᘜᖇOᑌᑭ.\n\nᑕᕼᗩᑎᘜᗴ ᗰOᗪᗴ ᐯIᗩ /playmode ᗩᑎᗪ Iᖴ YOᑌ'ᖇᗴ ᗩᒪᖇᗴᗩᗪY ᗩᗪᗰIᑎ, ᖇᗴᒪOᗩᗪ ᗩᗪᗰIᑎᑕᗩᑕᕼᗴ ᐯIᗩ `/reload`"
+play_5 : "ᖴᗩIᒪᗴᗪ TO ᑭᖇOᑕᑕᗴՏՏ ᗩᑌᗪIO ᖴIᒪᗴ.\n\nᗩᑌᗪIO ᖴIᒪᗴ ՏIᘔᗴ ՏᕼOᑌᒪᗪ ᗷᗴ ᒪᗴՏՏ Tᕼᗩᑎ 100 ᗰᗷ."
+play_6 : "**ᗪᑌᖇᗩTIOᑎ ᒪIᗰIT ᗴ᙭ᑕᗴᗴᗪᗴᗪ**\n\n**ᗩᒪᒪOᗯᗴᗪ ᗪᑌᖇᗩTIOᑎ:** {0} ᗰIᑎᑌTᗴՏ\n**ᖇᗴᑕᗴIᐯᗴᗪ ᗪᑌᖇᗩTIOᑎ:** {1} ᗰIᑎᑌTᗴՏ"
+play_7 : "ՏOᖇᖇY! ᗷOT ᗩᒪᒪOᗯՏ OᑎᒪY ᒪIᗰITᗴᗪ ᑎᑌᗰᗷᗴᖇ Oᖴ ᐯIᗪᗴO ᑕᗩᒪᒪՏ ᗪᑌᗴ TO ᑕᑭᑌ OᐯᗴᖇᒪOᗩᗪ IՏՏᑌᗴՏ. ᗰᗩᑎY OTᕼᗴᖇ ᑕᕼᗩTՏ ᗩᖇᗴ ᑌՏIᑎᘜ ᐯIᗪᗴO ᑕᗩᒪᒪ ᖇIᘜᕼT ᑎOᗯ. TᖇY ՏᗯITᑕᕼIᑎᘜ TO ᗩᑌᗪIO Oᖇ TᖇY ᗩᘜᗩIᑎ ᒪᗩTᗴᖇ."
+play_8 : "ᑎOT ᗩ ᐯᗩᒪIᗪ ᐯIᗪᗴO ᖴIᒪᗴ ᗴ᙭TᗴᑎՏIOᑎ!\n\n**ՏᑌᑭᑭOᖇTᗴᗪ ᖴOᖇᗰᗩTՏ:** {0}"
+play_9 : "ᐯIᗪᗴO ᖴIᒪᗴ ՏIᘔᗴ ՏᕼOᑌᒪᗪ ᗷᗴ ᒪᗴՏՏ Tᕼᗩᑎ 1 ᘜᗷ."
+play_10 : "**YOᑌTᑌᗷᗴ ᑭᒪᗩYᒪIՏT ᖴᗴᗩTᑌᖇᗴ**\n\nՏᗴᒪᗴᑕT Tᕼᗴ ᗰOᗪᗴ Iᑎ ᗯᕼIᑕᕼ YOᑌ ᗯᗩᑎT TO ᑭᒪᗩY ᗯᕼOᒪᗴ YOᑌTᑌᗷᗴ ᑭᒪᗩYᒪIՏT"
+play_11 : "📌**TITᒪᗴ:** {0}\n\n🕕**ᗪᑌᖇᗩTIOᑎ:** {1} ᗰIᑎᑌTᗴՏ"
+play_12 : "**ՏᑭOTIᖴY ᑭᒪᗩYᒪIՏTՏ**\n\nᖇᗴᑫᑌᗴՏTᗴᗪ ᗷY:- {0}"
+play_13 : "**ᗩᑭᑭᒪᗴ ᑭᒪᗩYᒪIՏTՏ**\n\nᖇᗴᑫᑌᗴՏTᗴᗪ ᗷY:- {0}"
+play_14 : "**ᑌᑎᗩᗷᒪᗴ TO ᐯᗴᖇIᖴY ᑌᖇᒪ.**\nᗷOT ᗯOᑎᗪᗴᖇՏ Iᖴ TᕼIՏ ᑌᖇᒪ ᗷᗴᒪOᑎᘜՏ TO ᗩᑎY Oᖴ Tᕼᗴ ᖴOᒪᒪOᗯIᑎᘜ ᑭᒪᗩTᖴOᖇᗰՏ: YOᑌTᑌᗷᗴ, ᗩᑭᑭᒪᗴ ᗰᑌՏIᑕ, ՏᑭOTIᖴY, ᖇᗴՏՏO ᗩᑎᗪ ՏOᑌᑎᗪᑕᒪOᑌᗪ.\n\nYOᑌ ᑕᗩᑎ ᑌՏᗴ /stream ᖴOᖇ ᗰ3ᑌ8 Oᖇ ᖇᗴᗰOTᗴ ᒪIᑎKՏ."
+play_15 : "**ᒪIᐯᗴ ՏTᖇᗴᗩᗰ ᗪᗴTᗴᑕTᗴᗪ**\n\nՏYՏTᗴᗰՏ ᕼᗩᐯᗴ ᗪᗴTᗴᑕTᗴᗪ YOᑌᖇ TᖇᗩᑕK ᒪIᑎK ᗩՏ ᒪIᐯᗴ ՏTᖇᗴᗩᗰ. ᗪO YOᑌ ᗯᗩᑎT TO ᑭᒪᗩY ᒪIᐯᗴ ՏTᖇᗴᗩᗰ?"
+play_16 : "ᖴᗩIᒪᗴᗪ TO ᖴᗴTᑕᕼ TᖇᗩᑕK ᗪᗴTᗩIᒪՏ, ᗰᗩYᗷᗴ TᕼᗩT TᖇᗩᑕK IՏ ᗩᘜᗴ ᖇᗴՏTᖇIᑕTᗴᗪ Oᑎ YOᑌTᑌᗷᗴ. TᖇY ᑭᒪᗩYIᑎᘜ ᗩᑎY OTᕼᗴᖇ TᖇᗩᑕK."
+play_17 : "ᑌᑎᗩᗷᒪᗴ TO ᑭᒪᗩY TᕼIՏ TYᑭᗴ Oᖴ ՏᑭOTIᖴY ᑫᑌᗴᖇY!\n\nI ᑕᗩᑎ ᑭᒪᗩY OᑎᒪY ՏᑭOTIᖴY TᖇᗩᑕKՏ, ᗩᒪᗷᑌᗰՏ, ᗩᖇTIՏTՏ ᗩᑎᗪ ᑭᒪᗩYᒪIՏTՏ"
+play_18 : "**ᑎO ᗩᑕTIᐯᗴ ᐯOIᑕᗴ ᑕᕼᗩT**\n\nTᕼᗴᖇᗴ ᗰᑌՏT ᗷᗴ ᗩᑎ ᗩᑕTIᐯᗴ ᐯOIᑕᗴ ᑕᕼᗩT, TO ᑌՏᗴ ᖴOᖇᑕᗴ ᑭᒪᗩY."
+
+#Playlist
+playlist_1 : "**ᑌՏᗩᘜᗴ:** /play [Music Name or YouTube Link or Reply to Audio]\n\nIᖴ YOᑌ ᗯᗩᑎT TO ᑭᒪᗩY ᗷOT'Տ Տᗴᖇᐯᗴᖇ ᑭᒪᗩYᒪIՏT! ᑭᖇᗴՏՏ Tᕼᗴ ᗷᑌTTOᑎ ᗷᗴᒪOᗯ."
+playlist_2 : "ᘜᗴTTIᑎᘜ YOᑌᖇ ᑭᒪᗩYᒪIՏT... ᑭᒪᗴᗩՏᗴ ᗯᗩIT!"
+playlist_3 : "YOᑌ ᕼᗩᐯᗴ ᑎO ᑭᒪᗩYᒪIՏT Oᑎ ᗷOT'Տ Տᗴᖇᐯᗴᖇ."
+playlist_4 : "ᖴᗴTᑕᕼᗴᗪ ᑭᒪᗩYᒪIՏT:\n\n"
+playlist_5 :  "Duration: {0} Minutes..."
+playlist_6 : " ᑭᗰ ᗰᗴ TO ᗪᗴᒪᗴTᗴ ᑭᒪᗩYᒪIՏTՏ."
+playlist_7 : "TᖇᗩᑕKՏ IᑎՏIᗪᗴ ᑭᒪᗩYᒪIՏT: {0}\n\nᑭᖇᗴՏՏ Tᕼᗴ ᗷᑌTTOᑎՏ TO ᗪᗴᒪᗴTᗴ ᗩ ᑭᗩᖇTIᑕᑌᒪᗩᖇ TᖇᗩᑕK Iᑎ YOᑌᖇ ᑭᒪᗩYᒪIՏT.\n\nTO ᗪᗴᒪᗴTᗴ ᗯᕼOᒪᗴ ᑭᒪᗩYᒪIՏT: ᑭᖇᗴՏՏ ᗪᗴᒪ ᗯᕼOᒪᗴ ᑭᒪᗩYᒪIՏT ᗷᑌTTOᑎ."
+playlist_8 : "ᗩᒪᖇᗴᗩᗪY ᗴ᙭IՏTՏ\n\nTᕼIՏ TᖇᗩᑕK ᗴ᙭ՏIՏTՏ Iᑎ YOᑌᖇ ᑭᒪᗩYᒪIՏT."
+playlist_9 : "ՏOᖇᖇY! YOᑌ ᑕᗩᑎ ᕼᗩᐯᗴ OᑎᒪY {0} ᗰᑌՏIᑕ Iᑎ ᗩ ᑭᒪᗩYᒪIՏT."
+playlist_10 : "ᑭᒪᗩYᒪIՏT ᗩᗪᗪITIOᑎ\n\n{0}\nᗩᗪᗪᗴᗪ TO YOᑌᖇ ᑭᒪᗩYᒪIՏT."
+playlist_11 : "ՏᑌᑕᑕᗴՏՏᖴᑌᒪᒪY ᗪᗴᒪᗴTᗴᗪ YOᑌᖇ TᖇᗩᑕK."
+playlist_12 : "ᖴᗩIᒪᗴᗪ TO ᗪᗴᒪᗴTᗴ YOᑌᖇ TᖇᗩᑕK."
+playlist_13 : "ᗪᗴᒪᗴTᗴᗪ YOᑌᖇ ᗯᕼOᒪᗴ ᑭᒪᗩYᒪIՏT ᖴᖇOᗰ Tᕼᗴ ᗯᕼOᒪᗴ Տᗴᖇᐯᗴᖇ. "
+playlist_14 : "**ᗩᖇᗴ YOᑌ Տᑌᖇᗴ YOᑌ ᗯᗩᑎT TO ᗪᗴᒪᗴTᗴ YOᑌᖇ ᗯᕼOᒪᗴ ᑭᒪᗩYᒪIՏT?**\n\nYOᑌ'ᒪᒪ ᒪOՏᗴ YOᑌᖇ ᑭᒪᗩYᒪIՏT ᗩᑎᗪ TᕼIՏ ᑕᗩᑎ'T ᗷᗴ ᖇᗴᑕOᐯᗴᖇᗴᗪ ᒪᗩTᗴᖇ."
+playlist_15 : "[ᑕᕼᗴᑕKOᑌT ᗯᕼOᒪᗴ ᑭᒪᗩYᒪIՏT]({0})"
+playlist_16 : "ᑫᑌᗴᑌᗴᗪ ᑭᒪᗩYᒪIՏT:"
+playlist_17 : "Queued Position -"
+playlist_18 : "[ᑕᕼᗴᑕKOᑌT ᗯᕼOᒪᗴ ᑫᑌᗴᑌᗴᗪ ᑭᒪᗩYᒪIՏT]({0})\n\nᒪᗩՏT ᑫᑌᗴᑌᗴᗪ ᑭOՏITIOᑎ: **{1}**"
+
+#Playmode
+playmode_1 : "ՏᗴᒪᗴᑕT Tᕼᗴ ᗰOᗪᗴ Iᑎ ᗯᕼIᑕᕼ YOᑌ ᗯᗩᑎT TO ᑭᒪᗩY Tᕼᗴ ᑫᑌᗴᖇIᗴՏ IᑎՏIᗪᗴ YOᑌᖇ ᘜᖇOᑌᑭ. [{0}]."
+playmode_2 : "ՏᗴTTIᑎᘜՏ ᑕᕼᗩᑎᘜᗴᗪ ᗩᑎᗪ Տᗩᐯᗴᗪ ՏᑌᑕᑕᗴՏՏᖴᑌᒪᒪY ᗷY {0}"
+
+#Stream 
+str_1 : "ᑭᒪᗴᗩՏᗴ ᑭᖇOᐯIᗪᗴ ᗰ3ᑌ8 ᒪIᑎKՏ Oᖇ Iᑎᗪᗴ᙭ ᒪIᑎKՏ."
+str_2 : "✅ ᐯᗩᒪIᗪ ՏTᖇᗴᗩᗰ ᐯᗴᖇIᖴIᗴᗪ\n\nᑭᒪᗴᗩՏᗴ ᗯᗩIT... ᑭᖇOᑕᑕᗴՏՏIᑎᘜ ᒪIᑎK..."
+str_3 : "ᑌᑎᗩᗷᒪᗴ TO ՏTᖇᗴᗩᗰ YOᑌTᑌᗷᗴ ᒪIᗷᗴ ՏTᖇᗴᗩᗰՏ. ᑎO ᒪIᐯᗴ ᖴOᖇᗰᗩT ᖴOᑌᑎᗪ."
+
+#TopPlay
+tracks_1 : "**ᑭᖇOᑕᑕᗴՏՏIᑎᘜ {0} TOᑭ 10 ᑭᒪᗩYᒪIՏT**\n\n💘**ᖇᗴᑫᑌᗴՏTᗴᗪ ᗷY:** {1}\n📢**ᑕᕼᗩᑎᑎᗴᒪ ᑭᒪᗩY:** {2}\n\nᑕᕼᗴᑕK TOᑭ 10 TᖇᗩᑕKՏ ᗷY /stats"
+tracks_2 : "**ᗴᖇᖇOᖇ**\n\nTᕼᗴᖇᗴ'Տ ᑎO **{0} TOᑭ 10 ᑭᒪᗩYᒪIՏT** Oᑎ ᗷOT'Տ Տᗴᖇᐯᗴᖇ. ᑭᒪᗴᗩՏᗴ TᖇY ᗩᑎY OTᕼᗴᖇ ᑭᒪᗩYᒪIՏT."
+
+# TOOLS
+
+#Lyrics
+lyrics_1 : "**ᑌՏᗩᘜᗴ:**\n\n/lyrics [Music Name]"
+lyrics_2 : "ՏᗴᗩᖇᑕᕼIᑎᘜ ᒪYᖇIᑕՏ..."
+lyrics_3 : "❌ ᖴᗩIᒪᗴᗪ TO ᖴᗴTᑕᕼ ᒪYᖇIᑕՏ 😭.\n\n💡**TᖇIᗴᗪ ՏᗴᗩᖇᑕᕼIᑎᘜ ᖴOᖇ:** {0}"
+lyrics_4 : "ᑕᒪIᑕK Oᑎ Tᕼᗴ ᗷᑌTTOᑎ ᗷᗴᒪOᗯ ᗩᑎᗪ ᘜᗴT Տᗴᗩᖇᑕᕼᗴᗪ ᒪYᖇIᑕՏ TO ᗩᐯOIᗪ ᒪOᑎᘜ Տᑭᗩᗰ TYᑭᗴՏ ᒪYᖇIᑕՏ Տᗴᗩᖇᑕᕼ."
+
+#Ping
+ping_1 : "» ᑭIᑎᘜIᑎᘜ..."
+ping_2 : "**» ᑭOᑎᘜ! «**\n`💘 {0} ᗰՏ`\n\n<b><u>{1} ՏYՏTᗴᗰ ՏTᗩTՏ:</u></b>\n\n💖 ᑌᑭTIᗰᗴ: {2} \n💖 ᖇᗩᗰ: {3} \n💖 ᑕᑭᑌ: {4} \n💖 ᗪIՏK: {5} \n💖 ᑭY-Tᘜ ᑕᗩᒪᒪՏ: `{6} ᗰՏ`"
+
+# Song
+song_1 : "YOᑌ ᑕᗩᑎ ᗪOᗯᑎᒪOᗩᗪ ᗰᑌՏIᑕ Oᖇ ᐯIᗪᗴO ᖴᖇOᗰ YOᑌTᑌᗷᗴ OᑎᒪY Iᑎ ᑭᖇIᐯᗩTᗴ ᑕᕼᗩT. ᑭᒪᗴᗩՏᗴ ՏTᗩᖇT ᗰᗴ Iᑎ ᑭᖇIᐯᗩTᗴ ᑕᕼᗩT."
+song_2 : "**ᑌՏᗩᘜᗴ:**\n\n/song [Music Name] Oᖇ [YouTube]"
+song_3 : "Tᕼᗴ ᐯIᗪᗴO ᒪIᑎK IՏ ᒪIᐯᗴ. I ᑕᗩᑎ'T ᗪOᗯᑎᒪOᗩᗪ ᒪIᐯᗴ YOᑌTᑌᗷᗴ ᐯIᗪᗴOՏ "
+song_4 : "📌**TITᒪᗴ**:- {0}\n\nՏᗴᒪᗴᑕT Tᕼᗴ TYᑭᗴ Iᑎ ᗯᕼIᑕᕼ YOᑌ ᗯᗩᑎT TO ᗪOᗯᑎᒪOᗩᗪ."
+song_5 : "ᑎOT ᗩ ᐯᗩᒪIᗪ YOᑌTᑌᗷᗴ ᒪIᑎK."
+song_6 : "ᘜᗴTTIᑎᘜ ᖴOᖇᗰᗩTՏ...\n\nᑭᒪᗴᗩՏᗴ ᗯᗩIT..."
+song_7 : "ᖴᗩIᒪᗴᗪ TO ᘜᗴT ᗩᐯᗩIᒪᗩᗷᒪᗴ ᖴOᖇᗰᗩTՏ ᖴOᖇ Tᕼᗴ ᐯIᗪᗴO. ᑭᒪᗴᗩՏᗴ TᖇY ᗩᑎY OTᕼᗴᖇ TᖇᗩᑕK."
+song_8 : "ᗪOᗯᑎᒪOᗩᗪ ՏTᗩᖇTᗴᗪ\n\nᑭᒪᗴᗩՏᗴ ᕼOᒪᗪ Oᑎ ᖴOᖇ ᖴᗴᗯ ՏᗴᑕOᑎᗪՏ..."
+song_9 : "ᖴᗩIᒪᗴᗪ TO ᗪOᗯᑎᒪOᗩᗪ ՏOᑎᘜ ᖴᖇOᗰ YT-ᗪᒪ\n\n**ᖇᗴᗩՏOᑎ:** {0}"
+song_10 : "ᖴᗩIᒪᗴᗪ TO ᑌᑭᒪOᗩᗪ Oᑎ Tᗴᒪᗴᘜᖇᗩᗰ ՏᗴᖇᐯᗴᖇՏ."
+song_11 : "ᑌᑭᒪOᗩᗪIᑎᘜ ՏTᗩᖇTᗴᗪ\n\nᑭᒪᗴᗩՏᗴ ᕼOᒪᗪ Oᑎ..."
+
+# Tools - Queue
+queue_1 : "» ᑭᒪᗴᗩՏᗴ ᗯᗩIT..."
+queue_2 : "Queued List is empty. No tracks found"
+queue_3 : "<u>**ᑫᑌᗴᑌᗴᗪ TᖇᗩᑕKՏ:</u>**  [ᑕᕼᗴᑕKOᑌT ᗰOᖇᗴ ᑫᑌᗴᑌᗴᗪ TᖇᗩᑕKՏ ᖴᖇOᗰ ᕼᗴᖇᗴ]({0})"
+queue_4 : "**💘 ᗩᗪᗪᗴᗪ TO ᑫᑌᗴᑌᗴ ᗩT #{0}**\n\n**🍒 TITᒪᗴ:** {1}\n**⏱ ᗪᑌᖇᗩTIOᑎ:** {2}\n💝 **ᖇᗴᑫᑌᗴՏTᗴᗪ ᗷY:** {3}"
+queue_5 : "OᑎᒪY Oᑎᗴ TᖇᗩᑕK IՏ Iᑎ ᑫᑌᗴᑌᗴ, ᗩᗪᗪ ՏOᗰᗴ ᗰOᖇᗴ TᖇᗩᑕKՏ Iᑎ ᑫᑌᗴᑌᗴ TO ᑕᕼᗴᑕK ᗯᕼOᒪᗴ ᑫᑌᗴᑌᗴ."
+
+# All Streaming Lines
+stream_1 : "» **ՏTᗩᖇTᗴᗪ ᑭᒪᗩYIᑎᘜ:** «\n\n💖 **ᖇᗴᑫᑌᗴՏTᗴᗪ ᗷY:** {0} \n🍒**IᑎᖴOᖇᗰᗩTIOᑎ:** [ᕼᗴᖇᗴ]({1})"
+stream_2 : "» **ᑭᒪᗩYIᑎᘜ ᐯIᗩ ᑌᖇᒪ** «\n\n💖 **ᖇᗴᑫᑌᗴՏTᗴᗪ ᗷY:** {0} "
+stream_3 : "» **ՏTᗩᖇTᗴᗪ ᑭᒪᗩYIᑎᘜ** «\n\n📌 **TITᒪᗴ:** {0}\n🕕 **ᗪᑌᖇᗩTIOᑎ:** {1}\n💖 **ᖇᗴᑫᑌᗴՏTᗴᗪ ᗷY:** {2} "
+stream_4 : "» **ՏTᗩᖇTᗴᗪ ᑭᒪᗩYIᑎᘜ** «\n\n📌 **TITᒪᗴ:** [{0}]({1})\n🕕 **ᗪᑌᖇᗩTIOᑎ:** {2}\n💖 **ᖇᗴᑫᑌᗴՏTᗴᗪ ᗷY:** {3} "
+
+# Inline Buttons
+
+#General Buttons
+CLOSE_BUTTON  : "↻ᑕᒪOՏᗴ↻"
+CLOSEMENU_BUTTON  : "↻ᑕᒪOՏᗴ↻"
+BACK_BUTTON : "◁ ᗷᗩᑕK"
+UNBAN_BUTTON : "• ᑌᑎᗷᗩᑎ •"
+
+#Lyrics
+L_B_1 : "🚀 ᑕᕼᗴᑕKOᑌT ᒪYᖇIᑕՏ ᑎOᗯ"
+
+# Start
+S_B_1 : "• ᑕOᗰᗰᗩᑎᗪՏ •"
+S_B_2 : "• ՏᗴTTIᑎᘜՏ •"
+S_B_3 : "• ՏᑌᑭᑭOᖇT •"
+S_B_4 : "• ᑕᕼᗩᑎᑎᗴᒪ •"
+S_B_5 : "• ᗩᗪᗪ ᗰᗴ •"
+S_B_6 : "• ՏOᑌᖇᑕᗴ •"
+S_B_7 : "• Oᗯᑎᗴᖇ •"
+S_B_8 : "• ᕼᗴᒪᑭ •"
+
+#Help 
+H_B_1 : "🤨 ᗩᗪᗰIᑎ 🤨"
+H_B_2 : "😜 ᑭᒪᗩY 😜"
+H_B_3 : "🤔 ᗷOT 🤔"
+H_B_4 : "😴 ᗴ᙭Tᖇᗩ 😴"
+H_B_5 : "↻ ᑕᒪOՏᗴ ↻"
+H_B_6 : "🤤 ՏᑌᗪO 🤤"
+
+#PlayMode
+PM_B_1 : "ᗪIᖇᗴᑕT ᑭᒪᗩY"
+PM_B_2 : "IᑎᒪIᑎᗴ ᗰᗩᖇKᑌᑭ"
+PM_B_3 : "ᑕᕼᗩᑎᑎᗴᒪ ᑭᒪᗩY"
+
+#Play
+P_B_1 : "🎧 ᗩᑌᗪIO 🎧"
+P_B_2 : "🎥 ᐯIᗪᗴO 🎥"
+P_B_3 : "🖤 ᒪIᐯᗴ 🖤"
+P_B_4 : "🌌 ᑭᒪᗩYᒪIՏT 🌌"
+
+#Playlist
+PL_B_1 : "🌌 ᑭᒪᗩYᒪIՏT 🌌"
+PL_B_2 : "• ᑭᒪᗩYᒪIՏT •"
+PL_B_3 : "• ᗰᗴᑎᑌ •"
+PL_B_4 : "🎧 ᑭᒪᗩY ᗰOᗪᗴ"
+PL_B_5 : "🗑 ᗪᗴᒪᗴTᗴ ᗯᕼOᒪᗴ ᑭᒪᗩYᒪIՏT"
+PL_B_6 : "🗑 ᗪᗴᒪᗴTᗴ ᑭᒪᗩYᒪIՏT"
+PL_B_7 : "🥲 Yᗴᑭ, ᗪᗴᒪᗴTᗴ IT"
+PL_B_8 : "🔢 ᑭᒪᗩY TOᑭ 10"
+PL_B_9 : "🔥 ᑭᒪᗩY ᘜᒪOᗷᗩᒪ TOᑭ 10 TᖇᗩᑕKՏ"
+PL_B_10 : "👥 ᑭᒪᗩY ᘜᖇOᑌᑭ'Տ TOᑭ 10 TᖇᗩᑕKՏ"
+PL_B_11 : "💖 ᑭᒪᗩY ᑭᗴᖇՏOᑎᗩᒪ TOᑭ 10 TᖇᗩᑕKՏ"
+
+#Settings
+ST_B_1 : "🔊 ᗩᑌᗪIO ᑫᑌᗩᒪITY"
+ST_B_2 : "🎥 ᐯIᗪᗴO ᑫᑌᗩᒪITY"
+ST_B_3 : "🎩 ᗩᑌTᕼ ᑌՏᗴᖇՏ"
+ST_B_4 : "📱 ᗪᗩՏᕼᗷOᗩᖇᗪ"
+ST_B_5 : "▶️ ᑭᒪᗩY ᗰOᗪᗴ"
+ST_B_6 : "🇮🇳 ᒪᗩᑎᘜᑌᗩᘜᗴ 🇮🇳"
+ST_B_7 : "🗑 ᑕᒪᗴᗩᑎ ᗰOᗪᗴ"
+ST_B_8 : "{0} ᒪOᗯ"
+ST_B_9 : "{0} ᗰᗴᗪIᑌᗰ"
+ST_B_10 : "{0} ᕼIᘜᕼ"
+ST_B_11 : "{0} ᒪOᗯ"
+ST_B_12 : "{0} ᗰᗴᗪIᑌᗰ"
+ST_B_13 : "{0} ᕼIᘜᕼ"
+ST_B_14 : "Oᑎ 😋"
+ST_B_15 : "Oᖴᖴ 😒"
+ST_B_16 : "🥺 ᗩᗪᗰIᑎՏ"
+ST_B_17 : "🙄 ᗴᐯᗴᖇYOᑎᗴ"
+ST_B_18 : "📋 ᗩᑌTᕼ ᒪIՏT"
+ST_B_19 : "🔎 Տᗴᗩᖇᑕᕼ ᗰOᗪᗴ"
+ST_B_20 : "🏓 ᗪIᖇᗴᑕT"
+ST_B_21 : "🙄 IᑎᒪIᑎᗴ"
+ST_B_22 : "⏯ ᑭᒪᗩY ᗰOᗪᗴ"
+ST_B_23 : "👥 ᘜᖇOᑌᑭ"
+ST_B_24 : "🏷 ᑕᕼᗩᑎᑎᗴᒪ"
+ST_B_25 : "🫂 ᑭᒪᗩY TYᑭᗴ"
+ST_B_26 : "🗑 ᑕOᗰᗰᗩᑎᗪ ᑕᒪᗴᗩᑎ"
+ST_B_27 : "🧑‍🚀 ՏᑌᘜᘜᗴՏTIOᑎ ᗰOᗪᗴ"
+
+#Song
+SG_B_1 : "• ᑕᒪIᑕK ᕼᗴᖇᗴ •"
+SG_B_2 : "🎧 ᗩᑌᗪIO🎧"
+SG_B_3 : "🎥 ᐯIᗪᗴO 🎥"
+
+#Stats
+SA_B_1 : "📢 TOᑭ 10 ᑕᕼᗩTՏ"
+SA_B_2 : "🔢 TOᑭ 10 TᖇᗩᑕKՏ"
+SA_B_3 : "🧛 TOᑭ 10 ᑌՏᗴᖇՏ"
+SA_B_4 : "🏷 TOᑭ 10 ᕼᗴᖇᗴ"
+SA_B_5 : "🍒 Oᐯᗴᖇᗩᒪᒪ ՏTᗩTՏ"
+SA_B_6 : "💖 ᑌՏᗴᖇ ՏTᗩTՏ"
+SA_B_7 : "🔢 ᘜᒪOᗷᗩᒪ TOᑭ 10 ՏTᗩTՏ"
+SA_B_8 : "🤖 ᗷOT ՏTᗩTՏ"
+
+#Queue
+QU_B_1 : "📑 ᑫᑌᗴᑌᗴᗪ ᒪIՏT"
+QU_B_2 : "ᑭᒪᗩYᗴᗪ {0} OᑌT Oᖴ {1} ᗰIᑎᑌTᗴՏ"
+
+# Sudo Users [ If you are translating this to some other language .. you can leave all these strings in english language]
+
+#Sudo
+sudo_1 : "{0} IՏ ᗩᒪᖇᗴᗩᗪY ᗩ ՏᑌᗪO ᑌՏᗴᖇ."
+sudo_2 : "ᗩᗪᗪᗴᗪ **{0}** TO ՏᑌᗪO ᑌՏᗴᖇՏ 😇." 
+sudo_3 : "ᑎOT ᗩ ᑭᗩᖇT Oᖴ ᗷOT'Տ ՏᑌᗪO 😏."
+sudo_4 : "ᖇᗴᗰOᐯᗴᗪ ᖴᖇOᗰ ᗷOT'Տ ՏᑌᗪO ᑌՏᗴᖇՏ 😡."
+sudo_5 : "💟<u> **OᗯᑎᗴᖇՏ:**</u>\n"
+sudo_6 : "\n💞<u> **ՏᑌᗪOᗴᖇՏ:**</u>\n"
+sudo_7 : "ᑎO ՏᑌᗪO ᑌՏᗴᖇՏ ᖴOᑌᑎᗪ."
+
+#Block
+block_1 : "{0} IՏ ᗩᒪᖇᗴᗩᗪY ᗷᒪOᑕKᗴᗪ ᖴᖇOᗰ Tᕼᗴ ᗷOT."
+block_2 : "ᗩᗪᗪᗴᗪ **{0}** TO ᗷᒪOᑕK ᒪIՏT Oᖴ ᗷOT. Tᕼᗴ ᑌՏᗴᖇ ᗯOᑎ'T ᗷᗴ ᗩᗷᒪᗴ TO ᑌՏᗴ ᗷOT ᑎOᗯ ᑌᑎᗪᗴᖇ ᗩᑎY ᑕOᑎᗪITIOᑎ.\n\nᑕᕼᗴᑕK ᗷᒪOᑕKᗴᗪ ᑌՏᗴᖇՏ: /blockedusers"
+block_3 : "ᑌՏᗴᖇ IՏ ᗩᒪᖇᗴᗩᗪY ᖴᖇᗴᗴ."
+block_4 : "ᖇᗴᗰOᐯᗴᗪ ᑌՏᗴᖇ ᖴᖇOᗰ Tᕼᗴ ᗷᒪOᑕK ᒪIՏT. ᑌՏᗴᖇ ᗯIᒪᒪ ᗷᗴ ᗩᗷᒪᗴ TO ᑌՏᗴ ᗷOT ᑎOᗯ."
+block_5 : "ᑎO ᗷᒪOᑕKᗴᗪ ᑌՏᗴᖇՏ ᖴOᑌᑎᗪ."
+block_6 : "ᘜᗴTTIᑎᘜ ᗷᒪOᑕKᗴᗪ ᑌՏᗴᖇՏ ᒪIՏT... ᑭᒪᗴᗩՏᗴ ᗯᗩIT!..."
+block_7 : "**ᗷᒪOᑕKᗴᗪ ᑌՏᗴᖇՏ:**\n\n"
+
+#Blacklist Chats
+black_1 : "**ᑌՏᗩᘜᗴ:**\n/blacklistchat [CHAT_ID]"
+black_2 : "ᑕᕼᗩT IՏ ᗩᒪᖇᗴᗩᗪY ᗷᒪᗩᑕKᒪIՏTᗴᗪ."
+black_3 : "ᑕᕼᗩT ᕼᗩՏ ᗷᗴᗴᑎ ᗷᒪᗩᑕKᒪIՏTᗴᗪ ՏᑌᑕᑕᗴՏՏᖴᑌᒪᒪY."
+black_4 : "**ᑌՏᗩᘜᗴ:**\n/whitelistchat [CHAT_ID]"
+black_5 : "ᑕᕼᗩT IՏ ᗩᒪᖇᗴᗩᗪY ᗯᕼITᗴᒪIՏTᗴᗪ."
+black_6 : "ᑕᕼᗩT ᕼᗩՏ ᗷᗴᗴᑎ ᗯᕼITᗴᒪIՏTᗴᗪ ՏᑌᑕᑕᗴՏՏᖴᑌᒪᒪY."
+black_7 : "**ᗷᒪᗩᑕKᒪIՏTᗴᗪ ᑕᕼᗩTՏ:**\n\n"
+black_8 : "ᑎO ᗷᒪᗩᑕKᒪIՏTᗴᗪ ᑕᕼᗩTՏ."
+
+#videolimit
+vid_1 : "**ᑌՏᗩᘜᗴ:**\n/set_video_limit [Number of Chats] Oᖇ [Disable]"
+vid_2 : "ᑭᒪᗴᗩՏᗴ ᑌՏᗴ ᑎᑌᗰᗷᗴᖇՏ ᖴOᖇ ՏᗴTTIᑎᘜ ᒪIᗰIT."
+vid_3 : "ᐯIᗪᗴO ᑕᗩᒪᒪՏ ᗰᗩ᙭Iᗰᑌᗰ ᒪIᗰIT ᗪᗴᖴIᑎᗴᗪ TO {0} ᑕᕼᗩTՏ."
+vid_4 : "ᐯIᗪᗴO ᑕᗩᒪᒪՏ ᗪIՏᗩᗷᒪᗴᗪ."
+
+#maintenance
+maint_1 : "**ᑌՏᗩᘜᗴ:**\n/maintenance [enable|disable]"
+maint_2 : "ᗰᗩIᑎTᗴᑎᗩᑕᗴ ᗰOᗪᗴ ᗴᑎᗩᗷᒪᗴᗪ ᑎOᗯ."
+maint_3 : "ᗰᗩIᑎTᗴᑎᗩᑎᑕᗴ ᗰOᗪᗴ ᗪIՏᗩᗷᒪᗴᗪ."
+
+#log
+log_1 : "**ᑌՏᗩᘜᗴ:**\n/logger [enable|disable]"
+log_2 : "ᗴᑎᗩᗷᒪᗴᗪ ᒪOᘜᘜIᑎᘜ."
+log_3 : "ᗪIՏᗩᗷᒪᗴᗪ ᒪOᘜᘜIᑎᘜ."
+
+#videomode
+vidmode_1 : "**ᑌՏᗩᘜᗴ:**\n/videomode [download|m3u8]"
+vidmode_2 : "ᐯIᗪᗴO ᑭᒪᗩY ᗰOᗪᗴ ՏᗴT ᗩՏ ᗪOᗯᑎᒪOᗩᗪᗴᖇ. ᗷOT ᗯIᒪᒪ ᗷᗴ ᗪOᗯᑎᒪOᗩᗪIᑎᘜ TᖇᗩᑕKՏ ᑎOᗯ."
+vidmode_3 : "ᐯIᗪᗴO ᑭᒪᗩY ᗰOᗪᗴ ՏᗴT ᗩՏ ᗰ3ᑌ8. ᗷOT ᗯIᒪᒪ ᗷᗴ ᗩᗷᒪᗴ TO ᑭᒪᗩY TᖇᗩᑕKՏ ᒪIᐯᗴ ᑎOᗯ."
+
+#broadcast
+broad_1 : "**ᗷᖇOᗩᗪᑕᗩՏTᗴᗪ ᗰᗴՏՏᗩᘜᗴ Iᑎ {0} ᑕᕼᗩTՏ ᗯITᕼ {1} ᑭIᑎՏ ᖴᖇOᗰ ᗷOT.**"
+broad_2 : "ՏTᗩᖇTᗴᗪ ᗩՏՏIᗩTᗩᑎT ᗷᖇOᗩᗪᑕᗩՏT..."
+broad_3 : "**ᗩՏՏIՏTᗩᑎT ᗷᖇOᗩᗪᑕᗩՏT:\n\n"
+broad_4 : "ᗩՏՏIՏTᗩᑎT {0} ᗷᖇOᗩᗪᑕᗩՏTᗴᗪ Iᑎ {1} ᑕᕼᗩTՏ\n"
+broad_5 : "**ᑌՏᗩᘜᗴ**:\n/broadcast [MESSAGE] Oᖇ [Reply to a Message]"
+broad_6 : "ᑭᒪᗴᗩՏᗴ ᑭᖇOᐯIᗪᗴ ՏOᗰᗴ Tᗴ᙭T TO ᗷᖇOᗩᗪᑕᗩՏT."
+broad_7 : "**ᗷᖇOᗩᗪᑕᗩՏTᗴᗪ ᗰᗴՏՏᗩᘜᗴ TO {0} ᑌՏᗴᖇՏ.**"
+
+#Heroku
+heroku_1 : "ᑭᒪᗴᗩՏᗴ ᗰᗩKᗴ Տᑌᖇᗴ YOᑌᖇ **ᕼᗴᖇOKᑌ ᗩᑭI KᗴY** ᗩᑎᗪ YOᑌᖇ **ᗩᑭᑭ ᑎᗩᗰᗴ** ᗩᖇᗴ ᑕOᑎᖴIᘜᑌᖇᗴᗪ ᑕOᖇᖇᗴᑕTᒪY Iᑎ ᕼᗴᖇOKᑌ."
+heroku_2 : "YOᑌ ᑕᗩᑎ OᑎᒪY ᘜᗴT ᒪOᘜՏ Oᖴ ᕼᗴᖇOKᑌ ᗩᑭᑭՏ."
+heroku_3 : "**ᑌՏᗩᘜᗴ:**\n/get_var [Var Name]"
+heroku_4 : "ᑌᑎᗩᗷᒪᗴ TO ᖴIᑎᗪ ᗩᑎY Տᑌᑕᕼ ᐯᗩᖇ."
+heroku_5 : ".env ᖴIᒪᗴ ᑎOT ᖴOᑌᑎᗪ."
+heroku_6 : "**ᑌՏᗩᘜᗴ:**\n/del_var [Var Name]"
+heroku_7 : "{0} ᗪᗴᒪᗴTᗴᗪ."
+heroku_8 : "**ᑌՏᗩᘜᗴ:**\n/set_var [Var Name] [Var Value]"
+heroku_9 : "{0} ᕼᗩՏ ᗷᗴᗴᑎ ᑌᑭᗪᗩTᗴᗪ ՏᑌᑕᑕᗴՏՏᖴᑌᒪᒪY."
+heroku_10 : "{0} ᕼᗩՏ ᗷᗴᗴᑎ ᗩᗪᗪᗴᗪ ՏᑌᑕᑕᗴՏՏᖴᑌᒪᒪY."
+heroku_11 : "OᑎᒪY ᖴOᖇ ᕼᗴᖇOKᑌ ᗩᑭᑭՏ."
+heroku_12 : "ᑕᕼᗴᑕKIᑎᘜ ᕼᗴᖇOKᑌ ᑌՏᗩᘜᗴ...ᑭᒪᗴᗩՏᗴ ᗯᗩIT..."
+heroku_13 : "ᑕᕼᗴᑕKIᑎᘜ ᖴOᖇ ᗩᐯᗩIᒪᗩᗷᒪᗴ ᑌᑭᗪᗩTᗴՏ..."
+heroku_14 : "ᘜIT ᑕOᗰᗰᗩᑎᗪ ᗴᖇᖇOᖇ."
+heroku_15 : "IᑎᐯᗩᒪIᗪ ᘜIT ᖇᗴᑭOՏITOᖇY."
+
+#Private bot mode
+pbot_1 : "**ᑌՏᗩᘜᗴ:**\n/authorize [CHAT_ID]"
+pbot_2 :  "**ᑌՏᗩᘜᗴ:**\n/unauthorize [CHAT_ID]"
+pbot_3 : "ᗩᗪᗪᗴᗪ ᘜIᐯᗴᑎ ᑕᕼᗩT TO ᗩᑌTᕼOᖇIՏᗴᗪ ᒪIՏT."
+pbot_4 : "ᖇᗴᗰOᐯᗴᗪ ᘜIᐯᗴᑎ ᑕᕼᗩT ᖴᖇOᗰ ᗩᑌTᕼOᖇIՏᗴᗪ ᒪIՏT."
+pbot_5 : "ᑕᕼᗩT IՏ ᗩᒪᖇᗴᗩᗪY Iᑎ Tᕼᗴ ᗩᑌTᕼOᖇIՏᗴᗪ ᒪIՏT."
+pbot_6 : "ᑎO Տᑌᑕᕼ ᑕᕼᗩTՏ ᗴ᙭IՏT Iᑎ Tᕼᗴ ᗩᑌTᕼOᖇIՏᗴᗪ ᒪIՏT."
+pbot_7 : "ᖴᗩIᒪᗴᗪ TO ᐯᗴᖇIᖴY ᑕᕼᗩT_Iᗪ.\n\nᗰᗩKᗴ Տᑌᖇᗴ ITՏ ᑎᑌᗰᗴᖇIᑕ ᗩᑎᗪ Iᑎ ᑕOᖇᖇᗴᑕT ᖴOᖇᗰᗩT. ᗪOᑎ'T ᑌՏᗴ ᑕᕼᗩT ᑌՏᗴᖇᑎᗩᗰᗴ Oᖇ ᒪIᑎKՏ."
+pbot_8 : "ᖴᗴTᑕᕼIᑎᘜ ᗩᑌTᕼOᖇIՏᗴᗪ ᑕᕼᗩTՏ... ᑭᒪᗴᗩՏᗴ ᗯᗩIT..."
+pbot_9 : "**<b>ᖴᗴTᑕᕼᗴᗪ ᑕᕼᗩTՏ:</b>**\n\n"
+pbot_10 : "ᑭᖇIᐯᗩTᗴ ᑕᕼᗩT"
+pbot_11 : "ᑎO ᗩᑌTᕼOᖇIՏᗴᗪ ᑕᕼᗩTՏ ᖴOᑌᑎᗪ."
+pbot_12 : "ᑭᖇIᐯᗩTᗴ ᗷOT ᗰOᗪᗴ IՏ ᗪIՏᗩᗷᒪᗴᗪ.\n\nTO ᑌՏᗴ YOᑌᖇ ᗷOT ᗩՏ ᑭᖇIᐯᗩTᗴ ᗷOT ᗰᗩKᗴ Տᑌᖇᗴ TO ՏᗴT **ᑭᖇIᐯᗩTᗴ_ᗷOT_ᗰOᗪᗴ** = **Tᖇᑌᗴ**"
+pbot_13 : "\n**<b>ᑌᑎᖴᗴTᑕᕼᗴᗪ ᑕᕼᗩTՏ:</b>**\n\n"
+
+
+#Gbanned
+gban_1 : "ᒪOᒪ, YOᑌ ᑕᗩᑎ'T ᘜᗷᗩᑎ YOᑌᖇՏᗴᒪᖴ! ᕼᑌᕼ, ᑎOOᗷ!"
+gban_2 : "YOᑌ ᗯᗩᑎT ᗰᗴ TO ᘜᗷᗩᑎ ᗰYՏᗴᒪᖴ? I ᗩᗰ Տᗩᗪ ᑎOᗯ🙁."
+gban_3 : "YOᑌ ᗯᗩᑎT TO ᘜᗷᗩᑎ ᗰY ᗩՏՏIՏTᗩᑎT?"
+gban_4 : "{0} IՏ ᗩᒪᖇᗴᗩᗪY **ᘜᗷᗩᑎᑎᗴᗪ** ᖴᖇOᗰ Tᕼᗴ ᗷOT."
+gban_5 : "**ᘜᗷᗩᑎᑎIᑎᘜ {0}**\n\nᗴ᙭ᑭᗴᑕTᗴᗪ TIᗰᗴ: {1}."
+gban_6 : "**ᘜᗷᗩᑎᑎᗴᗪ ՏᑌᑕᑕᗴՏՏᖴᑌᒪᒪY**\n\nᗷᗩᑎᑎᗴᗪ **{0}** ᖴᖇOᗰ **{1}** ᑕᕼᗩTՏ."
+gban_7 : "{0} IՏ ᑎOT **ᘜᗷᗩᑎᑎᗴᗪ**, ᕼOᗯ ᑕᗩᑎ I ᑌᑎᘜᗷᗩᑎ ᕼIᗰ?"
+gban_8 : "**ᑌᑎᘜᗷᗩᑎᑎIᑎᘜ {0}**\n\nᗴ᙭ᑭᗴᑕTᗴᗪ TIᗰᗴ: {1}."
+gban_9 : "**ᑌᑎᘜᗷᗩᑎᑎᗴᗪ ՏᑌᑕᑕᗴՏՏᖴᑌᒪᒪY**\n\nᑌᑎᗷᗩᑎᑎᗴᗪ **{0}** Iᑎ **{1}** ᑕᕼᗩTՏ."
+gban_10 : "YᗩY! ᑎO Oᑎᗴ IՏ ᘜᗷᗩᑎᑎᗴᗪ!"
+gban_11 : "ᘜᗴTTIᑎᘜ ᘜᗷᗩᑎᑎᗴᗪ ᑌՏᗴᖇՏ ᒪIՏT..."
+
+#Suggestions
+sug_0 : "❓**Do You Know?**\n\n✅ "
+sug_1 : "You can play music in two **search modes** i.e. Direct Mode and Inline Mode.\n\nChange modes via /playmode"
+sug_2 : "You can play music in two **play types** i.e. Everyone Mode and Admins Mode.\n\nChange modes via /playmode"
+sug_3 : "You can play music in **channels** too.\n\nSet channel_id via /channelplay and play via /cplay "
+sug_4 : "Non Admins can use admin commands too by adding them to** AUTH USERS LIST**. \nAdd any user to auth list by /auth , remove with /unauth and check auth users via /authusers"
+sug_5 : "Bot has a feature called **Clean Mode**.\nIt deletes the bot's messages after 5 Mins and ensures that  your chat remains clean.\n\nEnable or disable cleanmode from /settings [__Enabled by default__]"
+sug_6 : "You can play **Spotify** tracks and playlists too.\n\nStart playing now with /play [Spotify Link]"
+sug_7 : "You can play **Apple Music** tracks and playlists too.\n\nStart playing now with /play [Apple Link]"
+sug_8 : "You can play **Resso Music** tracks and playlists too.\n\nStart playing now with /play [Resso Link]"
+sug_9 : "You can play **Sound Cloud** tracks and playlists too.\n\nStart playing now with /play [SoundCloud Link]"
+sug_10 : "You can play **Videos** in voice chat via /vplay [Video Name] or /play -v [Video Name]"
+sug_11 : "You can set **Audio Quality** of voice chat to Low, Medium or High.\n\nSet quality via /settings"
+sug_12 : "You can set **Video Quality** of voice chat to Low, Medium or High.\n\nSet quality via /settings"
+sug_13 : "You can check your **Statistics** on bot like Top 10 Played Tracks.\n\nGet Stats: /gstats "
+sug_14 : "You can check **Group's Stats** on bot like Top 10 Played Tracks.\n\nGet Stats: /gstats "
+sug_15 : "You can check bot's **Global Stats** like top 10 users, top 10 chats, top 10 tracks etc etc.\n\nCheck Stats: /gstats "
+sug_16 : "You can now mute the music which is playing on voice chat.\n\nCommand: /mute"
+sug_17 : "You can now unmute and mute the music which is playing on voice chat.\n\nCommand: /mute and /unmute"
+sug_18 : "You can search the lyrics of musics with us too..\n\nCommand: /lyrics [Music Name]"
+sug_19 : "You can download the music or video from the bot through Youtube.\n\nCommand: /song [Music Name]"
+sug_20 : "You can get a complete list of my commands that i accept.\n\nCommand: /help"
+sug_21 : "Bot has server-sided playlist option.\n\nYou can add music in your playlist and play them all together via /play"
+sug_22 : "You can now shuffle the queued musics on the bot.\n\nCommand: /shuffle"
+sug_23 : "You can check the queue of the musics.\n\nCommand: /queue"
+sug_24 : "You can check my owner and sudo users who manage me.\n\nCommand: /sudolist"
+sug_25 : "Bot has a feature called **Commands Delete Mode**. It deletes its executed commands automatically.\n\nEnable or disable deletemode from /settings [__Enabled by default__]"
+sug_26 : "You can change language of the bot to available languages for easy understanding.\n\nCommand: /language"
+sug_27 : "Bot has a feature called **Force Play**.\n\n**Force Play** stops the playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue.\n\nCommand: /playforce"
